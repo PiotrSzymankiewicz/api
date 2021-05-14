@@ -8,4 +8,4 @@
 
 #### Endpoit customers list
 
-> http://localhost:8000/api/list
+> http://localhost:8000/api/all
